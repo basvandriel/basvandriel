@@ -9,9 +9,11 @@ I'm Bas, a full-stack developer
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
-<br/>
 
-#### ⚡ Recent Activity
+---
+
+<details>
+    <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#8](https://github.com//basvandriel/basvandriel.github.io/pull/8) in [basvandriel/basvandriel.github.io](https://github.com//basvandriel/basvandriel.github.io)
@@ -20,6 +22,15 @@ I'm Bas, a full-stack developer
 4. 🎉 Merged PR [#4](https://github.com//basvandriel/basvandriel.github.io/pull/4) in [basvandriel/basvandriel.github.io](https://github.com//basvandriel/basvandriel.github.io)
 5. 🎉 Merged PR [#5](https://github.com//basvandriel/basvandriel.github.io/pull/5) in [basvandriel/basvandriel.github.io](https://github.com//basvandriel/basvandriel.github.io)
 <!--END_SECTION:activity-->
+</details>
+
+<details>
+  <summary>⚡ Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=basvandriel&show_icons=true&hide_border=true" />
+
+</details>
+
 
 [website]: https://basvandriel.nl
 [twitter]: https://twitter.com/bvandriel
