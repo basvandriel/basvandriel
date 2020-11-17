@@ -16,11 +16,11 @@ I'm Bas, a full-stack developer
     <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1216](https://github.com/adobe/react-spectrum/issues/1216) in [adobe/react-spectrum](https://github.com/adobe/react-spectrum)
-2. ❗️ Opened issue [#1216](https://github.com/adobe/react-spectrum/issues/1216) in [adobe/react-spectrum](https://github.com/adobe/react-spectrum)
-3. ❗️ Closed issue [#1](https://github.com/crescoinnovations/icofy/issues/1) in [crescoinnovations/icofy](https://github.com/crescoinnovations/icofy)
-4. 🎉 Merged PR [#7](https://github.com//basvandriel/basvandriel.github.io/pull/7) in [basvandriel/basvandriel.github.io](https://github.com//basvandriel/basvandriel.github.io)
-5. 🎉 Merged PR [#4](https://github.com//basvandriel/basvandriel.github.io/pull/4) in [basvandriel/basvandriel.github.io](https://github.com//basvandriel/basvandriel.github.io)
+1. 🎉 Merged PR [#1](https://github.com/basvandriel/react-spectrum/pull/1) in [basvandriel/react-spectrum](https://github.com/basvandriel/react-spectrum)
+2. 💪 Opened PR [#1](https://github.com/basvandriel/react-spectrum/pull/1) in [basvandriel/react-spectrum](https://github.com/basvandriel/react-spectrum)
+3. 🗣 Commented on [#1216](https://github.com/adobe/react-spectrum/issues/1216) in [adobe/react-spectrum](https://github.com/adobe/react-spectrum)
+4. ❗️ Opened issue [#1216](https://github.com/adobe/react-spectrum/issues/1216) in [adobe/react-spectrum](https://github.com/adobe/react-spectrum)
+5. ❗️ Closed issue [#1](https://github.com/crescoinnovations/icofy/issues/1) in [crescoinnovations/icofy](https://github.com/crescoinnovations/icofy)
 <!--END_SECTION:activity-->
 </details>
 
