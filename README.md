@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm Bas, a full-stack developer
+### Hi there I'm Bas, a full-stack developer👋
 
 #### 📩 Connect with me
 
