@@ -15,11 +15,11 @@
     <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/staylor/react-helmet-async/issues/121) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
-2. 💪 Opened PR [#121](https://github.com/staylor/react-helmet-async/pull/121) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
-3. ❗️ Opened issue [#120](https://github.com/staylor/react-helmet-async/issues/120) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
-4. 🗣 Commented on [#109](https://github.com/staylor/react-helmet-async/issues/109) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
-5. 🗣 Commented on [#107](https://github.com/staylor/react-helmet-async/issues/107) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
+1. ❌ Closed PR [#121](https://github.com/staylor/react-helmet-async/pull/121) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
+2. 🗣 Commented on [#120](https://github.com/staylor/react-helmet-async/issues/120) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
+3. 🗣 Commented on [#121](https://github.com/staylor/react-helmet-async/issues/121) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
+4. 💪 Opened PR [#121](https://github.com/staylor/react-helmet-async/pull/121) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
+5. ❗️ Opened issue [#120](https://github.com/staylor/react-helmet-async/issues/120) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
 <!--END_SECTION:activity-->
 </details>
 
