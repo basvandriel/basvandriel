@@ -15,9 +15,9 @@
     <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/staylor/react-helmet-async/issues/107) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
-2. 🎉 Merged PR [#2](https://github.com/basvandriel/fcc-mern-exercise-tracker/pull/2) in [basvandriel/fcc-mern-exercise-tracker](https://github.com/basvandriel/fcc-mern-exercise-tracker)
-3. 🎉 Merged PR [#1](https://github.com/basvandriel/fcc-graphql-reading-list/pull/1) in [basvandriel/fcc-graphql-reading-list](https://github.com/basvandriel/fcc-graphql-reading-list)
+1. 🗣 Commented on [#109](https://github.com/staylor/react-helmet-async/issues/109) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
+2. 🗣 Commented on [#107](https://github.com/staylor/react-helmet-async/issues/107) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
+3. 🎉 Merged PR [#2](https://github.com/basvandriel/fcc-mern-exercise-tracker/pull/2) in [basvandriel/fcc-mern-exercise-tracker](https://github.com/basvandriel/fcc-mern-exercise-tracker)
 4. 🎉 Merged PR [#2](https://github.com/basvandriel/fcc-graphql-reading-list/pull/2) in [basvandriel/fcc-graphql-reading-list](https://github.com/basvandriel/fcc-graphql-reading-list)
 5. 🎉 Merged PR [#1](https://github.com/basvandriel/fcc-mern-exercise-tracker/pull/1) in [basvandriel/fcc-mern-exercise-tracker](https://github.com/basvandriel/fcc-mern-exercise-tracker)
 <!--END_SECTION:activity-->
