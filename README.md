@@ -23,8 +23,5 @@
 
 </details>
 
-
-[website]: https://basvandriel.nl
-[twitter]: https://twitter.com/bvandriel
 [instagram]: https://instagram.com/bas.vandriel
 [linkedin]: https://linkedin.com/in/basvandriel
